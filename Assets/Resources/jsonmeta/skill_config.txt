@@ -1,0 +1,23 @@
+{
+    "Speed":{"nameKey":"skillName1", "enName":"Speed Up", "cnName":"速度*", "iconUrl":"ui://Main/skill_speed1", "type":1, "descKey":"skillDesc1"},
+    "Split":{"nameKey":"skillName2", "enName":"Split", "cnName":"分裂", "iconUrl":"ui://Main/skill_split1", "type":1, "descKey":"skillDesc2"},
+    "SplitChance":{"nameKey":"skillName3", "enName":"Splitting Probability UP", "cnName":"分裂概率↑", "iconUrl":"ui://Main/skill_split2", "descKey":"skillDesc3"},
+    "SplitCount":{"nameKey":"skillName4", "enName":"Split Number UP", "cnName":"分裂数量↑", "iconUrl":"ui://Main/skill_split3", "descKey":"skillDesc4"},
+    "CooldownSpeed":{"nameKey":"skillName5", "enName":"Cooldown Speed UP", "cnName":"频率加快↑", "iconUrl":"ui://Main/skill_split4", "descKey":"skillDesc5"},
+    "Trace":{"nameKey":"skillName6", "enName":"Track", "cnName":"追踪", "iconUrl":"ui://Main/skill_trace1", "type":1, "descKey":"skillDesc6"},
+    "TraceChance":{"nameKey":"skillName7", "enName":"Track Probability UP", "cnName":"追踪概率↑", "iconUrl":"ui://Main/skill_trace2", "descKey":"skillDesc7"},
+    "TraceRange":{"nameKey":"skillName8", "enName":"Track Range UP", "cnName":"追踪范围↑", "iconUrl":"ui://Main/skill_trace3", "descKey":"skillDesc8"},
+    "TraceCount":{"nameKey":"skillName9", "enName":"Track Times UP", "cnName":"追踪次数↑", "iconUrl":"ui://Main/skill_trace4", "descKey":"skillDesc9"},
+    "Bomb":{"nameKey":"skillName10", "enName":"Bomb", "cnName":"爆炸", "iconUrl":"ui://Main/skill_bomb1", "type":1, "descKey":"skillDesc10"},
+    "BombChance":{"nameKey":"skillName11", "enName":"Bomb Probability UP", "cnName":"爆炸概率↑", "iconUrl":"ui://Main/skill_bomb2", "descKey":"skillDesc11"},
+    "BombRange":{"nameKey":"skillName12", "enName":"Bomb Range UP", "cnName":"爆炸范围↑", "iconUrl":"ui://Main/skill_bomb3", "descKey":"skillDesc12"},
+    "BombLinkChance":{"nameKey":"skillName13", "enName":"Constinuous Explosion UP", "cnName":"连爆概率↑", "iconUrl":"ui://Main/skill_bomb4", "descKey":"skillDesc13"},
+    "Laser":{"nameKey":"skillName14", "enName":"Laser", "cnName":"激光", "iconUrl":"ui://Main/skill_electric1", "type":1, "descKey":"skillDesc14"},
+    "LaserChance":{"nameKey":"skillName15", "enName":"Laser Probability UP", "cnName":"激光概率↑", "iconUrl":"ui://Main/skill_electric2", "descKey":"skillDesc15"},
+    "LaserRange":{"nameKey":"skillName16", "enName":"Laser Range UP", "cnName":"激光增大↑", "iconUrl":"ui://Main/skill_electric3", "descKey":"skillDesc16"},
+    "LaserCount":{"nameKey":"skillName17", "enName":"Laser Number UP", "cnName":"激光数量↑", "iconUrl":"ui://Main/skill_electric2", "descKey":"skillDesc17"},
+    "TapAttract":{"nameKey":"skillName18", "enName":"Collective Attack", "cnName":"万箭归宗", "iconUrl":"ui://Main/skill_allows1", "type":1, "descKey":"skillDesc18"},
+    "Attack":{"nameKey":"skillName19", "enName":"Attack Up", "cnName":"攻击*", "iconUrl":"ui://Main/skill_attack", "descKey":"skillDesc19"},
+    "SpeedAdd":{"nameKey":"skillName20", "enName":"Speed Up", "cnName":"速度提升↑", "iconUrl":"ui://Main/skill_speed1", "descKey":"skillDesc20"},
+    "AttackAdd":{"nameKey":"skillName21", "enName":"Attack Up", "cnName":"攻击提升↑", "iconUrl":"ui://Main/skill_attack", "descKey":"skillDesc21"}
+}

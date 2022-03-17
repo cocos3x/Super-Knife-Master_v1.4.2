@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c91e7b0efb72454fbefdcd2d64ac553f
+timeCreated: 1646693712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "MUSEOSANS_700"
+  fontNames:
+  - Museo Sans + Tahoma
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

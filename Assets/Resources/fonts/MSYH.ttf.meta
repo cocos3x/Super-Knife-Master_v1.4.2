@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d125cc502da94591947abbd6eff025ad
+timeCreated: 1646693710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "MSYH"
+  fontNames:
+  - Microsoft YaHei + Tahoma
+  - Microsoft YaHei
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7 @@
+[
+    {"id":1, "nameKey":"Tap*6", "duration":60, "mul":6, "dailyLimit":-1, "iconUrl":"ui://Main/buff_tap"},
+    {"id":2, "nameKey":"Speed*2", "duration":600, "mul":2, "dailyLimit":-1, "iconUrl":"ui://Main/buff_speed"},
+    {"id":3, "nameKey":"ATK*3", "duration":180, "mul":3, "dailyLimit":5, "iconUrl":"ui://Main/buff_atk"},
+    {"id":4, "nameKey":"OfflineReward*72h", "duration":"0", "mul":259200, "dailyLimit":5, "iconUrl":"ui://Main/buff_offline"},
+    {"id":5, "nameKey":"Reward*2", "duration":600, "mul":2, "dailyLimit":-1, "iconUrl":"ui://Main/buff_reward"}
+]

@@ -1,0 +1,32 @@
+namespace Configure.Tips
+{
+	public enum ResultCode
+	{
+		Ok,
+		Error,
+		NotEnoughGold,
+		NotEnoughCash,
+		NotEnoughAmazonCard,
+		NetworkError,
+		UnderReview,
+		TodayUsedUp,
+		NotEnough,
+		Evaluate_Ab_Close,
+		Evaluate_Time,
+		RedeemIsActivating,
+		RedeemIsVerifying,
+		RedeemIsProcessing,
+		NotEnoughTask1,
+		NotEnoughTask2,
+		RedeemIsFailure,
+		NotEnoughAbc,
+		PleaseCheckTheFormat,
+		RedeemSelectGameTps,
+		NotEnoughDiamond,
+		ContinueTomorrowTps,
+		WaitInfo,
+		NotEnoughSkinChip,
+		DailyVideoLimit,
+		TargetNotReached
+	}
+}

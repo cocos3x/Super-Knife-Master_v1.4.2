@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f60b450357d2495bbdf8c279d3ea9393
+timeCreated: 1646693700
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "MUSEOSANS_900"
+  fontNames:
+  - Museo Sans + Tahoma
+  - Museo Sans
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 069be9a04b4a4a8fb28917cd10a8a47c
+timeCreated: 1646693706
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Normal"
+  fontNames:
+  - Microsoft YaHei + Tahoma
+  - Gen Jyuu Gothic
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

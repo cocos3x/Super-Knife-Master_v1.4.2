@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0ce034e0e57f4428a4f8d33ca6adf7a0
+timeCreated: 1646693704
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "spyagency3"
+  fontNames:
+  - Spy Agency Condensed + Tahoma Condensed
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b43b30dc1fb315e5f7286e79f02c084, type: 3}
+  m_Name: "SdkConfigure"
+  m_EditorClassIdentifier: 
+  AdConfigures:
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_1"
+    AdFilterConfigures: []
+    AdCountConfigures:
+    - UsedType: 2
+      NeedResetEverDay: 0
+      MaxCount: 3
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_2"
+    AdFilterConfigures: []
+    AdCountConfigures: []
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_3"
+    AdFilterConfigures: []
+    AdCountConfigures: []
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_4"
+    AdFilterConfigures: []
+    AdCountConfigures:
+    - UsedType: 2
+      NeedResetEverDay: 0
+      MaxCount: 1
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_5"
+    AdFilterConfigures: []
+    AdCountConfigures:
+    - UsedType: 2
+      NeedResetEverDay: 0
+      MaxCount: 2
+  - SdkAdConfigureType: 2
+    StatictKey: "ji_skin"
+    AdFilterConfigures: []
+    AdCountConfigures: []
+  - SdkAdConfigureType: 0
+    StatictKey: "fl_0"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: 
+      DefaultContent: 1
+    AdCountConfigures: []
+  - SdkAdConfigureType: 1
+    StatictKey: "fl_skin"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 1
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "full_piece_ball"
+      DefaultContent: 0
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "nofull_piece_ball"
+      DefaultContent: 3
+    - SdkFilterConfigureType: 2
+      NeedResetEverDay: 0
+      SaveKey: "commonTime"
+      ControllerKey: "split_time"
+      DefaultContent: 30
+    AdCountConfigures: []
+  - SdkAdConfigureType: 1
+    StatictKey: "fl_2"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 1
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "collect_full"
+      DefaultContent: 3
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "collect_nofull"
+      DefaultContent: 2
+    - SdkFilterConfigureType: 2
+      NeedResetEverDay: 0
+      SaveKey: "commonTime"
+      ControllerKey: "split_time"
+      DefaultContent: 30
+    AdCountConfigures: []
+  - SdkAdConfigureType: 1
+    StatictKey: "fl_3"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 1
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "boss_full"
+      DefaultContent: 0
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "boss_nofull"
+      DefaultContent: 1
+    - SdkFilterConfigureType: 2
+      NeedResetEverDay: 0
+      SaveKey: "commonTime"
+      ControllerKey: "split_time"
+      DefaultContent: 30
+    AdCountConfigures: []
+  - SdkAdConfigureType: 1
+    StatictKey: "fl_4"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 1
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "level_full"
+      DefaultContent: 1
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "level_nofull"
+      DefaultContent: 3
+    - SdkFilterConfigureType: 2
+      NeedResetEverDay: 0
+      SaveKey: "commonTime"
+      ControllerKey: "split_time"
+      DefaultContent: 30
+    AdCountConfigures: []
+  - SdkAdConfigureType: 1
+    StatictKey: "fl_5"
+    AdFilterConfigures:
+    - SdkFilterConfigureType: 0
+      NeedResetEverDay: 0
+      SaveKey: 
+      ControllerKey: "unlock_weapon"
+      DefaultContent: 3
+    - SdkFilterConfigureType: 2
+      NeedResetEverDay: 0
+      SaveKey: "commonTime"
+      ControllerKey: "split_time"
+      DefaultContent: 30
+    AdCountConfigures: []

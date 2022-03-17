@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b326d45597c34479abd7efa64c8e62ff
+timeCreated: 1646693710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "606-CAI"
+  fontNames:
+  - 606-CAI978 + Tahoma 606-CAI978
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
